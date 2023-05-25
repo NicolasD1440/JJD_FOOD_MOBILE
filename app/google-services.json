@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88365150242",
+    "project_id": "jjd-food-mobile",
+    "storage_bucket": "jjd-food-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88365150242:android:13fac78098a16f61099a7b",
+        "android_client_info": {
+          "package_name": "com.example.jjd_food_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88365150242-ccptll8p077jg5d63ot1k9vlmfn5qkpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-YHxekg-27VUdSLWBJLs25mXBSpSShg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88365150242-ccptll8p077jg5d63ot1k9vlmfn5qkpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
